@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TpCalculatrice</string>
+    <string name="str_hello">Bonjour !</string>
+    <string name="txtDisplay">0</string>
+    <string name="txt_welcome">Bonjour !</string>
+    <string name="txt_result">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_minux">-</string>
+    <string name="btn_8">8</string>
+    <string name="btn_6">6</string>
+    <string name="btn_5">5</string>
+    <string name="btn_4">4</string>
+    <string name="btn_3">3</string>
+    <string name="btn_7">7</string>
+    <string name="btn_9">9</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_add">+</string>
+    <string name="btn_calculate">=</string>
+    <string name="btn_comma">,</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_0">0</string>
+    <string name="applicationlogo">applicationLogo</string>
+    <string name="txt_n1">n1 : </string>
+    <string name="txt_n2">n2 : </string>
+    <string name="txt_op">op : </string>
+    <string name="n1_txt">\"n1 : \"</string>
+    <string name="n2_txt">\"n2 : \"</string>
+    <string name="op_txt">\"op : \"</string>
+</resources>
